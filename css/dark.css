@@ -1,0 +1,90 @@
+/* DARK MODE */
+
+#google-logo {
+    display: none;
+  }
+  
+  #menu-container-id {
+    display: none;
+  }
+  
+  #menu-container-dark-id {
+    display: block;
+  }
+  
+  #google-logo-white {
+    display: inline;
+  }
+  
+  body {
+    background-color: #202124;
+  }
+  
+  #search-input {
+    background-color: #202124;
+    border-color: #5F6368;
+    color: #e8eaed;
+  }
+  
+  #search-input:hover {
+    background-color: #303134;
+    border-color: #303134;
+  }
+  
+  #search-icon, #keyboard-icon, #mic-icon {
+    color: #9AA0A6
+  }
+  
+  #search-icon {
+    color: #9AA0A6;
+  }
+  
+  #keyboard-icon {
+    cursor: pointer;
+  }
+  
+  #mic-icon {
+    cursor: pointer;
+  }
+  
+  .nav-list li a {
+    color: #fff;
+  }
+  
+  #input-buttons button {
+    background-color: #303134;
+    border-color: #303134;
+    color: #e8eaed;
+    cursor: pointer;
+  }
+  
+  #input-buttons button:hover {
+    border-color: #5F6368;
+  }
+  
+  footer {
+    background-color: #171717;
+    border-color: #3c4043;
+  }
+  
+  #left-bar li a {
+    color: #9aa0a6;
+  }
+  
+  #right-bar li a{
+    color: #9aa0a6;
+  }
+  
+  #sub-footer {
+    background-color: #171717;
+    color: #9aa0a6;
+  }
+  
+  #login-id {
+    background-color: #8ab4f8;
+    color: #202124;
+  }
+  
+  #login-id:hover{
+    background-color: #93BAF9
+  }  
